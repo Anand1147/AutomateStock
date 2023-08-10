@@ -1,0 +1,2 @@
+# AutomateStock
+Doveloping Mode
